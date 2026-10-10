@@ -1,0 +1,8 @@
+{
+  "name": "SoilSense AI",
+  "description": "Multisensor Soil Health Monitoring & Action System for Urban Community Gardens",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
